@@ -1,0 +1,6 @@
+<service>
+  <id>anti-edge</id>
+  <name>Anti-Edge Service</name>
+  <description>Destroys Microsoft Edge from your computer and everytime it comes back.</description>
+  <executable>%BASE%\anti-edge.exe</executable>
+</service>
