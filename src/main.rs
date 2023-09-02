@@ -1,4 +1,4 @@
-use sysinfo::{ProcessExt, ProcessRefreshKind, RefreshKind, System, SystemExt};
+use sysinfo::{ProcessExt, ProcessRefreshKind, RefreshKind, SystemExt};
 
 fn main() {
     let virus_dir = std::path::PathBuf::from("C:\\Program Files (x86)\\Microsoft\\Edge\\");
